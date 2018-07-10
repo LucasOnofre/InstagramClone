@@ -1,4 +1,4 @@
-#Thu Jun 28 14:33:44 BRT 2018
+#Tue Jul 10 16:12:29 BRT 2018
 path.3=classes.dex
 path.2=classes.dex
 path.1=classes.dex
@@ -8,6 +8,6 @@ renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
 base.3=E\:\\Lucas\\Projects\\Android\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\12
-base.2=E\:\\Lucas\\Projects\\Android\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\13
-base.1=E\:\\Lucas\\Projects\\Android\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\14
-base.0=E\:\\Lucas\\Projects\\Android\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+base.2=E\:\\Lucas\\Projects\\Android\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\15
+base.1=E\:\\Lucas\\Projects\\Android\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+base.0=E\:\\Lucas\\Projects\\Android\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\14
