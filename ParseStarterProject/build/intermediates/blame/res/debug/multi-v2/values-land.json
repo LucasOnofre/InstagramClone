@@ -4,7 +4,7 @@
             "outputFile": "E:\\Lucas\\Projects\\Android\\Instagram\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Lucas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\cd97ed341caf40bd04eec8713347f947\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\Lucas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\002cf582ba5fd5dd1087a64d586182e7\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "4,7,10,11,14,17,18",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -18,6 +18,25 @@
                         "startOffsets": "55,117,189,259,329,393,464",
                         "endColumns": "61,71,69,69,63,70,67",
                         "endOffsets": "112,184,254,324,388,459,527"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Lucas\\.gradle\\caches\\transforms-1\\files-1.1\\design-22.2.1.aar\\65d17dbbf2f0ba320dc63c4b4a33c8a5\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "286",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "463"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "532",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "709"
                     }
                 }
             ]

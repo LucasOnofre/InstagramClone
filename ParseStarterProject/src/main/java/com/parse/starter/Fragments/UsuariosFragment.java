@@ -1,11 +1,13 @@
 package com.parse.starter.Fragments;
 
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
@@ -14,6 +16,7 @@ import com.parse.ParseException;
 import com.parse.ParseQuery;
 import com.parse.ParseUser;
 import com.parse.starter.R;
+import com.parse.starter.activity.FeedUsuariosActivity;
 import com.parse.starter.adapter.UsuariosAdapter;
 
 import java.util.ArrayList;
@@ -48,6 +51,22 @@ public class UsuariosFragment extends Fragment {
 
         //Recupera usuários
         getUsuarios();
+
+        //evento de click nos itens da lista
+        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+
+                ParseUser parseUser = usuarios.get(position);
+
+                //envia os dados para o feed do usuário
+                Intent intent = new Intent(getActivity(), FeedUsuariosActivity.class);
+                intent.putExtra("username",parseUser.getUsername());
+
+                startActivity(intent);
+
+            }
+        });
 
         return view;
     }

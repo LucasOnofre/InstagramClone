@@ -1,26 +1,27 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-42:12
-INJECTED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-42:12
-INJECTED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-42:12
-INJECTED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-42:12
-MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\Lucas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.0.aar\cd97ed341caf40bd04eec8713347f947\AndroidManifest.xml:17:1-24:12
+ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-51:12
+INJECTED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-51:12
+INJECTED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-51:12
+INJECTED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-51:12
+MERGED from [com.android.support:design:22.2.1] C:\Users\Lucas\.gradle\caches\transforms-1\files-1.1\design-22.2.1.aar\65d17dbbf2f0ba320dc63c4b4a33c8a5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Lucas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\002cf582ba5fd5dd1087a64d586182e7\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Lucas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\357ff355dbe50fe5d63b7d9791c84f10\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Lucas\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\8dd6f0855c69909ef470b5239f62ba41\AndroidManifest.xml:17:1-24:12
-INJECTED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-42:12
-INJECTED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-42:12
-INJECTED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-42:12
+INJECTED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-51:12
+INJECTED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-51:12
+INJECTED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-51:12
 	package
 		ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:10:5-32
 		INJECTED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
 		INJECTED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-42:12
+		ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-51:12
 		INJECTED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-42:12
+		ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-51:12
 		INJECTED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:11-69
@@ -37,9 +38,11 @@ ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\Andr
 	android:name
 		ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:14:22-77
 application
-ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:16:5-40:19
-MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\Lucas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.0.aar\cd97ed341caf40bd04eec8713347f947\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\Lucas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.0.aar\cd97ed341caf40bd04eec8713347f947\AndroidManifest.xml:22:5-20
+ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:16:5-49:19
+MERGED from [com.android.support:design:22.2.1] C:\Users\Lucas\.gradle\caches\transforms-1\files-1.1\design-22.2.1.aar\65d17dbbf2f0ba320dc63c4b4a33c8a5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:22.2.1] C:\Users\Lucas\.gradle\caches\transforms-1\files-1.1\design-22.2.1.aar\65d17dbbf2f0ba320dc63c4b4a33c8a5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Lucas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\002cf582ba5fd5dd1087a64d586182e7\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Lucas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\002cf582ba5fd5dd1087a64d586182e7\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Lucas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\357ff355dbe50fe5d63b7d9791c84f10\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Lucas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\357ff355dbe50fe5d63b7d9791c84f10\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Lucas\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\8dd6f0855c69909ef470b5239f62ba41\AndroidManifest.xml:22:5-20
@@ -47,7 +50,7 @@ MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Lucas\.gradle\cache
 	android:label
 		ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:20:9-41
 	android:icon
-		ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:19:9-43
+		ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:19:9-44
 	android:allowBackup
 		ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:18:9-35
 	android:theme
@@ -87,15 +90,33 @@ ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\Andr
 	android:name
 		ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:38:19-56
 activity#com.parse.starter.activity.CadastroActivity
-ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:39:9-72
+ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:39:9-63
 	android:name
 		ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:39:19-60
+activity#com.parse.starter.activity.FeedUsuariosActivity
+ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:40:9-48:20
+	android:parentActivityName
+		ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:43:13-64
+	android:label
+		ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:42:13-65
+	android:theme
+		ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:44:13-44
+	android:name
+		ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:41:13-58
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:45:13-47:75
+	android:value
+		ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:47:17-72
+	android:name
+		ADDED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:46:17-63
 uses-sdk
 INJECTED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
 INJECTED from E:\Lucas\Projects\Android\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\Lucas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.0.aar\cd97ed341caf40bd04eec8713347f947\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\Lucas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.0.aar\cd97ed341caf40bd04eec8713347f947\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:22.2.1] C:\Users\Lucas\.gradle\caches\transforms-1\files-1.1\design-22.2.1.aar\65d17dbbf2f0ba320dc63c4b4a33c8a5\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:22.2.1] C:\Users\Lucas\.gradle\caches\transforms-1\files-1.1\design-22.2.1.aar\65d17dbbf2f0ba320dc63c4b4a33c8a5\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Lucas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\002cf582ba5fd5dd1087a64d586182e7\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Lucas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\002cf582ba5fd5dd1087a64d586182e7\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Lucas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\357ff355dbe50fe5d63b7d9791c84f10\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Lucas\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\357ff355dbe50fe5d63b7d9791c84f10\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Lucas\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\8dd6f0855c69909ef470b5239f62ba41\AndroidManifest.xml:20:5-43

@@ -4,7 +4,7 @@
             "outputFile": "E:\\Lucas\\Projects\\Android\\Instagram\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w720dp-v13\\values-w720dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Lucas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\cd97ed341caf40bd04eec8713347f947\\res\\values-w720dp\\values-w720dp.xml",
+                    "source": "C:\\Users\\Lucas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\002cf582ba5fd5dd1087a64d586182e7\\res\\values-w720dp\\values-w720dp.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

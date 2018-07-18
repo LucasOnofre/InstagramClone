@@ -41,10 +41,10 @@ public class UsuariosAdapter extends ArrayAdapter<ParseUser> {
             LayoutInflater inflater = (LayoutInflater) context.getSystemService(context.LAYOUT_INFLATER_SERVICE);
 
             //Monta a view
-            view = inflater.inflate(R.layout.lista_postagem, parent, false);
+            view = inflater.inflate(R.layout.lista_usuarios, parent, false);
 
             //Recupera elementos para exibição
-             username = (TextView) view.findViewById(R.id.teste_poha);
+             username = (TextView) view.findViewById(R.id.username_txt);
 
             //Configura o textview para exibir os usuários
             ParseUser parseUser = usuarios.get(position);

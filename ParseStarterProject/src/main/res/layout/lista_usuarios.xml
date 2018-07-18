@@ -4,7 +4,7 @@
     android:layout_height="match_parent">
 
     <TextView
-        android:id="@+id/teste_poha"
+        android:id="@+id/username_txt"
         android:textColor="@android:color/black"
         android:textSize="20sp"
         android:padding="20dp"
